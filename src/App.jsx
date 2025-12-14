@@ -286,7 +286,7 @@ export default function App() {
         reachMe: "Thông tin liên hệ",
         sendMsg: "Gửi tin nhắn",
         sendViaEmail: "Gửi qua Email",
-        formNote: "Form dùng mailto nên không cần backend.",
+        formNote: "Gửi qua Email.",
         quickLinks: "Link nhanh",
         backToTop: "Lên đầu trang",
       },

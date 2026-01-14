@@ -496,7 +496,7 @@ const copyToClipboard = async (text) => {
                     <div className={cn("text-xs", ui.muted)}>PDF</div>
                   </div>
                   <div className={cn("rounded-xl border p-4 text-center", ui.card)}>
-                    <div className="text-xl font-semibold">Open</div>
+                    <div className="text-xl font-semibold">Close</div>
                     <div className={cn("text-xs", ui.muted)}>Internships</div>
                   </div>
                 </div>
